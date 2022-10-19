@@ -1,0 +1,29 @@
+.navlist{
+    background-color: gray;
+    overflow :auto;
+}
+
+.navlist ul{
+    list-style: none;
+    float: right;
+    margin-right: 3%;
+    /* margin-top: 0.5%; */
+}
+
+li{
+    display: inline-block;
+}
+
+.navlist li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.textnav{
+    color:rgb(255, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    display: inline-block;
+
+}
